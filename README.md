@@ -5,9 +5,9 @@ A simple sampling algorithm. Two version are provided:
  
 ## Build
 ```
-gcc sampling.c -o sampling
+gcc sampling.c -o sampling -Wall
 
-gcc sampling_corrected.c -o sampling_corrected
+gcc sampling_corrected.c -o sampling_corrected -Wall
 ```
 
 ## Run
