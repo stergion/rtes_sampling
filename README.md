@@ -1,5 +1,5 @@
 # Sampling Algorithm
-A simple sampling algorithm. Two version are provided:
+A simple sampling algorithm. Two versions are provided:
 * sampling.c
 * sampling_corrected.c
  
